@@ -18,6 +18,7 @@ Each topic has its own folder:
 
 - `basic-syntax-conditions-loops/`
 - `data-types-and-variables/`
+- `arrays/`
 
 ---
 

@@ -14,8 +14,10 @@ To improve fluency in JavaScript by solving extra tasks that go beyond the stand
 
 ## 🗂 Structure
 
-- Each topic or section has its own folder.
-- Each file contains a single solved task with meaningful naming.
+Each topic has its own folder:
+
+- `basic-syntax-conditions-loops/`
+- `data-types-and-variables/`
 
 ---
 

@@ -14,7 +14,7 @@ function addAndRemove(array) {
             counter++
         }
     }
-    console.log(newArr)
+    console.log(newArr.join(" "))
 }
 
 addAndRemove(['add', 'add', 'add', 'add']);
